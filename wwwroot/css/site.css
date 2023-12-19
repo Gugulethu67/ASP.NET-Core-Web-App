@@ -1,0 +1,23 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+    background-color: #12161d;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #12161d;
+    color: #fff;
+    overflow: auto;
+    overflow-x: auto;
+}
